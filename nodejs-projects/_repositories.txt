@@ -1,3 +1,5 @@
+node-html-light
+node-modules-scan
 broccoli-plugin-adapter
 broccoli-test-runner
 broccoli-livereload
@@ -9,5 +11,3 @@ generator-stfsy-node
 node-amy
 node-cloudfoundry-actuator
 node-cloudfoundry-actuator-cli
-node-html-light
-node-modules-scan
