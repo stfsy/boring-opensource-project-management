@@ -1,4 +1,5 @@
 broccoli-plugin-adapter
+broccoli-test-runner
 broccoli-livereload
 broccoli-image-min
 broccoli-inject-livereload
