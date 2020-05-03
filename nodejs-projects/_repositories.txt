@@ -6,8 +6,8 @@ broccoli-livereload
 broccoli-image-min
 broccoli-inject-livereload
 broccoli-version
-express-cloudfoundry-actuator-middleware
 generator-stfsy-node
 node-amy
-node-cloudfoundry-actuator
 node-cloudfoundry-actuator-cli
+node-cloudfoundry-actuator
+express-cloudfoundry-actuator-middleware
