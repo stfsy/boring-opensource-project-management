@@ -8,6 +8,6 @@ declare -r repositories="$(cat $REPOSITORIES_FILE)"
 
 for repository in $repositories; do
     cd $repository 
-    bash -c ./update-deps-and-tag.sh
+    bash -c ./.update-deps-and-tag.sh
     cd ..
 done
