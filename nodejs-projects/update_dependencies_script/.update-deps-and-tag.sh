@@ -29,4 +29,5 @@ if [[ $has_updates -gt "0" ]] || [[ $has_audit_fixes -gt "0" ]]; then
     npm run release-minor
     git checkout $DEV_BRANCH || true
     git rebase $MAIN_BRANCH
+    npm publish
 fi
