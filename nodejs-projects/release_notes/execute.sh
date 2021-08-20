@@ -32,7 +32,7 @@ function commit_push_and_remove_directory {
     cd $repository
     git add --chmod=+x .get_latest_changes_for_release_notes.sh
     git add .
-    git commit -m "chore: create github release automatically"
+    git commit -m "chore: create github releases with changelog"
     git push origin master
     
     cd ..
