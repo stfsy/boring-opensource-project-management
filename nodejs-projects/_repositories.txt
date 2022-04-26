@@ -5,8 +5,6 @@ broccoli-test-runner
 broccoli-livereload
 broccoli-image-min
 broccoli-inject-livereload
-broccoli-version
-generator-stfsy-node
 node-amy
 node-cloudfoundry-actuator-cli
 node-cloudfoundry-actuator
